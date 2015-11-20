@@ -1,3 +1,8 @@
+/*
+ * Linux Mint
+ * Kate.cxx
+ * 
+ */
 #include <fstream>
 #include <iostream>
 #include <sstream>
